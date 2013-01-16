@@ -1,0 +1,6 @@
+phonegap
+========
+
+phonegap project
+
+hi
