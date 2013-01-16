@@ -3,4 +3,4 @@ phonegap
 
 phonegap project
 
-hi
+phonegap sample project
